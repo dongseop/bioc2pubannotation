@@ -1,2 +1,2 @@
-# bioc2pubannotation
+# bioc_pubann
 Convert BioC XML to PubAnnotation JSON
